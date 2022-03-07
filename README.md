@@ -1,1 +1,1 @@
-# Epic-Archery-5-Class-32
+# Project Template 26
